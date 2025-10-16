@@ -1,33 +1,34 @@
-```markdown
 # Hi there, I'm Hayat Musema 👋
 
-![Banner Image or GIF](https://via.placeholder.com/1200x300.png?text=Front-End+Developer+Banner) 
-*Aspiring Software Engineer | Front-End Enthusiast | UI/UX Designer*
+![Banner Image or GIF](https://via.placeholder.com/1200x300.png?text=Front-End+Developer+Banner)  
+**Aspiring Software Engineer | Front-End Enthusiast | UI/UX Designer**
 
 I'm a passionate Software Engineering student diving deep into front-end web development and UI/UX design. I love building intuitive, responsive user interfaces and learning through hands-on projects. Always eager to collaborate and grow!
 
 ## 🚀 About Me
-- 🎓 Currently studying Software Engineering at AASTU.
-- 💻 Specializing in front-end technologies: HTML, CSS, JavaScript, and getting hands-on with React.js and Tailwind CSS.
-- 🎨 UI/UX focus: Figma, user personas, wireframing, and prototyping.
-- 🌱 Learning through projects: From web apps and UI designs to console-based systems in C++.
-- 🔭 Goal: Land a front-end internship and contribute to open-source UI libraries.
+- 🎓 **Currently studying Software Engineering at AASTU.**
+- 💻 **Specializing in front-end technologies:** HTML, CSS, JavaScript, and getting hands-on with React.js and Tailwind CSS.
+- 🎨 **UI/UX focus:** Figma, user personas, wireframing, and prototyping.
+- 🌱 **Learning through projects:** From web apps and UI designs to console-based systems in C++.
+- 🔭 **Goal:** Land a front-end internship and contribute to open-source UI libraries.
 
 
 ## 🛠️ Tech Stack & Tools
 ### Languages & Frameworks
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+- ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+- ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+- ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+- ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
+- ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
 ### Design & Others
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+- ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+- ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+- ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  
+
 
 ## 📂 Featured Projects
 Here are some of my project-based learning adventures:
@@ -60,9 +61,9 @@ Here are some of my project-based learning adventures:
 Check out more in my [repositories](https://github.com/yourusername?tab=repositories)!
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?Hayat-Musema=Hayat-Musema&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hayat-Musema&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayat-Musema&layout=compact&theme=radical)  
+
 
 ## 🌱 Currently Learning
 - React and Tailwind CSS for building modern, responsive web apps.
