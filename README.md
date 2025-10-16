@@ -1,6 +1,4 @@
 # Hi there, I'm Hayat Musema 👋
-
-![Banner Image or GIF](https://via.placeholder.com/1200x300.png?text=Front-End+Developer+Banner)  
 **Aspiring Software Engineer | Front-End Enthusiast | UI/UX Designer**
 
 I'm a passionate Software Engineering student diving deep into front-end web development and UI/UX design. I love building intuitive, responsive user interfaces and learning through hands-on projects. Always eager to collaborate and grow!
@@ -58,12 +56,7 @@ Here are some of my project-based learning adventures:
    ![Project Screenshot](https://via.placeholder.com/600x300?text=Expense+Tracker+Screenshot)  
    *Tech: C++*
 
-Check out more in my [repositories](https://github.com/yourusername?tab=repositories)!
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hayat-Musema&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hayat-Musema&layout=compact&theme=radical)  
-
+Check out more in my [repositories](https://github.com/Hayat-Musema?tab=repositories)!
 
 ## 🌱 Currently Learning
 - React and Tailwind CSS for building modern, responsive web apps.
@@ -72,9 +65,8 @@ Check out more in my [repositories](https://github.com/yourusername?tab=reposito
 - Planning to apply these in upcoming front-end projects!
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- 🐦 [Twitter/X](https://twitter.com/yourhandle)
-- ✉️ Email: your.email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/hayat-musema)
+- ✉️ Email: hayat11.mf@gmail.com
 - 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 Feel free to reach out for collaborations, feedback on projects, or just a chat about web dev!
