@@ -1,14 +1,14 @@
 # Hi there, I'm Hayat Musema 👋
-**Aspiring Software Engineer | Front-End Enthusiast | UI/UX Designer**
+**Aspiring Software Engineer | Full-stack web developer | UI/UX Designer**
 
 I'm a passionate Software Engineering student diving deep into front-end web development and UI/UX design. I love building intuitive, responsive user interfaces and learning through hands-on projects. Always eager to collaborate and grow!
 
 ## 🚀 About Me
 - 🎓 **Currently studying Software Engineering at AASTU.**
-- 💻 **Specializing in front-end technologies:** HTML, CSS, JavaScript, and getting hands-on with React.js and Tailwind CSS.
+- 💻 **Specializing in MERN stack technologies:** MongoDB,Express,React and Node.js.
 - 🎨 **UI/UX focus:** Figma, user personas, wireframing, and prototyping.
-- 🌱 **Learning through projects:** From web apps and UI designs to console-based systems in C++.
-- 🔭 **Goal:** Land a front-end internship and contribute to open-source UI libraries.
+- 🌱 **Learning through projects:** From web apps and UI designs to console-based systems in C++,java.
+
 
 
 ## 🛠️ Tech Stack & Tools
@@ -20,6 +20,7 @@ I'm a passionate Software Engineering student diving deep into front-end web dev
 - ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+- ![Node](https://img.shields.io/badge/-Node-007396?style=flat&logo=node&logoColor=white)
 
 ### Design & Others
 - ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
